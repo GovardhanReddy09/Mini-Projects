@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: Arial;
+    
+}
+.game-heading{
+    font-size: 30px;
+    font-weight:bold;
+
+}
+.same-button{
+    background-color: rgb(25,25,25);
+    border: 3px solid white;
+    cursor: pointer;
+    height:120px;
+    width: 120px;
+    border-radius: 60px;
+    margin-right: 12px;
+}
+.result-passage{
+    margin-top:50px ;
+    font-size: 25px;
+    font-weight: bold;
+}
+.reset-button,.auto-button{
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+.result{
+    margin-bottom: 50px;
+}
